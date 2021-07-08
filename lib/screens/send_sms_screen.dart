@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_sms/flutter_sms.dart';
 
-List<String> recipient = ["7********"];
+List<String> recipient = ["9841985968"];
 
 class SendSmsScreen extends StatefulWidget {
   @override
